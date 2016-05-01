@@ -1,0 +1,2 @@
+serviceClass: org.gwtrpcspring.example.client.GreetingService
+path: 2F8CF710E0B0995927B2C5CEC595425E.gwt.rpc
